@@ -4,6 +4,8 @@ description: Thermohelp logs of student discussions to support problem sets.
 file: /courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/30f04e51bb0fab993bef8690df6fe3fa_entropy_ideal_gas.pdf
 file_size: 20829
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

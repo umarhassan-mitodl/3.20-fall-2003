@@ -5,6 +5,8 @@ description: 'Thermohelp log of student discussions to support problem sets: Arg
 file: /courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/9b9d27c1af0fa91dddd39b308f7a6d48_heated_argument.pdf
 file_size: 17216
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

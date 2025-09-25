@@ -5,6 +5,8 @@ description: 'Thermohelp log of student discussions to support problem sets: Der
 file: /courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/bb1968dfc302522b68d6f4df98454c35_thermal_expansion.pdf
 file_size: 23811
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

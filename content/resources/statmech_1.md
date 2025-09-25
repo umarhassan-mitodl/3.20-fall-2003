@@ -4,6 +4,8 @@ description: Thermohelp logs of student discussions to support problem sets.
 file: /courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/ee795bb59338b845c25cae2bd0ea6b59_statmech_1.pdf
 file_size: 17522
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

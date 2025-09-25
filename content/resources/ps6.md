@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/245a127ef3d7870235599c6d9e3fca11_ps6.pdf
 file_size: 37713
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
