@@ -5,6 +5,8 @@ description: 'Thermohelp log of student discussions to support problem sets: Dif
 file: /courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/fd8b52fbacb4eaccc1eb7c041a250eba_duel.pdf
 file_size: 15003
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
