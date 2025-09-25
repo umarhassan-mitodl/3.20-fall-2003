@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ]
+  ],
+  "legacy_uid": "fbf14c02-e7de-0904-5540-f50f0902ecfb",
+  "instructors": {
+    "content": [
+      "71e50b7d-b79e-75aa-47bb-7270a9f94907",
+      "0ee406b5-7ab5-e34b-16cb-8f385055b514"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "09d2fceb-08b1-166a-91fb-ed5fac528beb",
+    "website": "3-20-materials-at-equilibrium-sma-5111-fall-2003"
+  },
+  "course_title": "Materials at Equilibrium (SMA 5111)",
+  "course_description": "Material covered in this course includes the following topics:\n\n*   Laws of thermodynamics: general formulation and applications to mechanical, electromagnetic and electrochemical systems, solutions, and phase diagrams\n*   Computation of phase diagrams\n*   Statistical thermodynamics and relation between microscopic and macroscopic properties, including ensembles, gases, crystal lattices, phase transitions\n*   Applications to phase stability and properties of mixtures\n*   Computational modeling\n*   Interfaces\n\nThis course was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5111 (Materials at Equilibrium).\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.20",
+  "course_image_thumbnail": {
+    "content": "85b21b09-7d1d-1000-6e1b-a22ab9158ef8",
+    "website": "3-20-materials-at-equilibrium-sma-5111-fall-2003"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "site_uid": "2eccc1e9-b963-437c-bcab-074f66485d89",
+  "site_short_id": "3.20-fall-2003",
+  "site_url_path": "courses/3-20-materials-at-equilibrium-sma-5111-fall-2003",
+  "title": "Course Metadata"
+}
