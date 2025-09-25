@@ -28,7 +28,7 @@
     "website": "3-20-materials-at-equilibrium-sma-5111-fall-2003"
   },
   "course_title": "Materials at Equilibrium (SMA 5111)",
-  "course_description": "Material covered in this course includes the following topics:\n\n*   Laws of thermodynamics: general formulation and applications to mechanical, electromagnetic and electrochemical systems, solutions, and phase diagrams\n*   Computation of phase diagrams\n*   Statistical thermodynamics and relation between microscopic and macroscopic properties, including ensembles, gases, crystal lattices, phase transitions\n*   Applications to phase stability and properties of mixtures\n*   Computational modeling\n*   Interfaces\n\nThis course was also taught as part of the {{% resource_link \"3a0747ce-a91f-46aa-a38a-307a32392fb7\" \"Singapore-MIT Alliance\" %}} (SMA) programme as course number SMA 5111 (Materials at Equilibrium).\n",
+  "course_description": "Material covered in this course includes the following topics:\n\n*   Laws of thermodynamics: general formulation and applications to mechanical, electromagnetic and electrochemical systems, solutions, and phase diagrams\n*   Computation of phase diagrams\n*   Statistical thermodynamics and relation between microscopic and macroscopic properties, including ensembles, gases, crystal lattices, phase transitions\n*   Applications to phase stability and properties of mixtures\n*   Computational modeling\n*   Interfaces\n\nThis course was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5111 (Materials at Equilibrium).\n",
   "department_numbers": [
     "3"
   ],
