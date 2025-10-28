@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -121,7 +119,7 @@ Academic Honesty
 
 Cheating is strongly discouraged. Trust me, if you knew the consequences you wouldn't even think about it.
 
-MIT's academic honesty policy can be found at [MIT Policies and Procedures](http://policies-procedures.mit.edu/).
+MIT's academic honesty policy can be found at {{% resource_link "a5139032-93ac-4f0d-b65f-41e4c90327b6" "MIT Policies and Procedures" %}}.
 
 Other Interesting References
 ----------------------------
